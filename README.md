@@ -9,3 +9,13 @@
 
 <particionamento de disco 1>
 <img width="798" height="594" alt="Captura de tela 2026-05-06 082051" src="https://github.com/user-attachments/assets/354f3179-1d46-44a7-8e63-e71898a9b5fa" />
+
+<grub install>
+<img width="794" height="594" alt="image" src="https://github.com/user-attachments/assets/b246760b-9447-4afd-aea9-cc4a50ab31c5" />
+
+<tela inicial>
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/b2172dc9-6bd6-433d-8a2a-f801bd477345" />
+
+<hydra initial tela>
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/4e1629b1-eb38-48f5-af27-2f56f0fd586d" />
+

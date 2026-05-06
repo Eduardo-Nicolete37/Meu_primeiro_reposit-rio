@@ -19,3 +19,26 @@
 <hydra initial tela>
 <img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/4e1629b1-eb38-48f5-af27-2f56f0fd586d" />
 
+<print das senha salvas>
+<img width="1919" height="791" alt="image" src="https://github.com/user-attachments/assets/0d1631b7-dd21-4c1f-a9e9-14274323ac80" />
+
+<geração de hashs com base em md5sum>
+<img width="1919" height="795" alt="image" src="https://github.com/user-attachments/assets/fc09bff3-479f-411d-898e-01a739f9d562" />
+
+<geração de hashs com base em sha256sum>
+<img width="1456" height="786" alt="image" src="https://github.com/user-attachments/assets/dbe9234c-a919-4eec-b307-0cf473e43e2e" />
+
+<imagem dos hashes e do código para quebrar do John the Ripper
+<img width="1919" height="471" alt="image" src="https://github.com/user-attachments/assets/540220c6-5484-4d5c-9622-daf346eea39d" />
+
+<codigo e quebra feita>
+<img width="728" height="373" alt="image" src="https://github.com/user-attachments/assets/5521876c-d0b4-42f9-8928-13551aa95666" />
+
+<senhas e hashs>
+<img width="1919" height="388" alt="image" src="https://github.com/user-attachments/assets/a5ff1353-888c-47fc-abbe-f40aa5d73fcb" />
+
+
+
+
+
+
